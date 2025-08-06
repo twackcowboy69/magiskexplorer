@@ -1,6 +1,6 @@
 {
-  "version": "v8.29.56 (patches 5.32.0)",
-  "versionCode": 1,
-  "zipUrl": "https://github.com/twackcowboy69/magiskexplorer/releases/download/1/music-revanced-magisk-v8.29.56-arm-v7a.zip",
+  "version": "v8.31.51 (patches 5.33.0)",
+  "versionCode": 2,
+  "zipUrl": "https://github.com/twackcowboy69/magiskexplorer/releases/download/2/music-revanced-magisk-v8.31.51-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/twackcowboy69/magiskexplorer/update/build.md"
 }
