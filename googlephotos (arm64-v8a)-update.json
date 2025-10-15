@@ -1,6 +1,6 @@
 {
-  "version": "v7.49.0.816946145 (patches 5.43.0)",
-  "versionCode": 12,
-  "zipUrl": "https://github.com/twackcowboy69/magiskexplorer/releases/download/12/googlephotos-revanced-magisk-v7.49.0.816946145-arm64-v8a.zip",
+  "version": "v7.49.0.816946145 (patches 5.43.1)",
+  "versionCode": 13,
+  "zipUrl": "https://github.com/twackcowboy69/magiskexplorer/releases/download/13/googlephotos-revanced-magisk-v7.49.0.816946145-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/twackcowboy69/magiskexplorer/update/build.md"
 }
